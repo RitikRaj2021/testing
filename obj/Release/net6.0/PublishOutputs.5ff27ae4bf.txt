@@ -1,0 +1,7 @@
+C:\Users\Ritik\Downloads\New folder\ASP.NET_Test\ASP.NETCoreWebAppTest\obj\Release\net6.0\PubTmp\Out\ASP.NETCoreWebAppTest.exe
+C:\Users\Ritik\Downloads\New folder\ASP.NET_Test\ASP.NETCoreWebAppTest\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Ritik\Downloads\New folder\ASP.NET_Test\ASP.NETCoreWebAppTest\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Ritik\Downloads\New folder\ASP.NET_Test\ASP.NETCoreWebAppTest\obj\Release\net6.0\PubTmp\Out\ASP.NETCoreWebAppTest.dll
+C:\Users\Ritik\Downloads\New folder\ASP.NET_Test\ASP.NETCoreWebAppTest\obj\Release\net6.0\PubTmp\Out\ASP.NETCoreWebAppTest.deps.json
+C:\Users\Ritik\Downloads\New folder\ASP.NET_Test\ASP.NETCoreWebAppTest\obj\Release\net6.0\PubTmp\Out\ASP.NETCoreWebAppTest.runtimeconfig.json
+C:\Users\Ritik\Downloads\New folder\ASP.NET_Test\ASP.NETCoreWebAppTest\obj\Release\net6.0\PubTmp\Out\ASP.NETCoreWebAppTest.pdb
