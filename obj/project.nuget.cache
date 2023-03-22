@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "wmSMEldFZp3zs8FTVHxX5UQPWp2Z8ZM3JAMk8xWPrm0Re+zOqfMbuwRd/QaPojRZO+Tj9RMxbEqx2bZZ+qxQ3A==",
+  "dgSpecHash": "hsgrZumlmhrZ6pVO110PfmX+HtRoRByYbkYTyAraj7Wxp6PLr8/m/X1A0rykoX2FejHPkTm7NXosvITwPoYZlg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ritik\\Downloads\\New folder\\ASP.NET_Test\\ASP.NETCoreWebAppTest\\ASP.NETCoreWebAppTest.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Downloads\\ASP.NETTest-main\\ASP.NETTest-main\\ASP.NETCoreWebAppTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ritik Local Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Ritik Local Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Ritik Local Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Ritik Local Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
