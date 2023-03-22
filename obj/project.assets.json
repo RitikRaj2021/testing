@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ritik\\Downloads\\New folder\\ASP.NET_Test\\ASP.NETCoreWebAppTest\\ASP.NETCoreWebAppTest.csproj",
+      "projectUniqueName": "C:\\Users\\Ritik\\Documents\\GitHub\\New folder\\test\\testing\\ASP.NETCoreWebAppTest.csproj",
       "projectName": "ASP.NETCoreWebAppTest",
-      "projectPath": "C:\\Users\\Ritik\\Downloads\\New folder\\ASP.NET_Test\\ASP.NETCoreWebAppTest\\ASP.NETCoreWebAppTest.csproj",
+      "projectPath": "C:\\Users\\Ritik\\Documents\\GitHub\\New folder\\test\\testing\\ASP.NETCoreWebAppTest.csproj",
       "packagesPath": "C:\\Users\\Ritik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ritik\\Downloads\\New folder\\ASP.NET_Test\\ASP.NETCoreWebAppTest\\obj\\",
+      "outputPath": "C:\\Users\\Ritik\\Documents\\GitHub\\New folder\\test\\testing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
